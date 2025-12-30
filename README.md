@@ -88,4 +88,7 @@ This repository contains **three distinct NLP pipelines** for processing text an
 - **Project 2:** Preprocessing and NER are solid, but classification and question generation were weak.
 - **Project 3:** Optimized pipeline and structured data led to the **highest overall accuracy**.
 
+## Link to the dataset : 
+https://www.kaggle.com/datasets/Cornell-University/arxiv
+
 
